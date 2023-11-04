@@ -69,10 +69,12 @@ h3 {
 
 .person.big {
   width: 70%;
+  height: auto;
 }
 
 .person.small {
   width: 30%;
+  height: auto;
 }
 
 .right-div {
